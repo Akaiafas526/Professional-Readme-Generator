@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Akaiafas526/Professional-Readme-Generator/issues"
   },
-  "homepage": "https://github.com/Akaiafas526/Professional-Readme-Generator#readme"
+  "homepage": "https://github.com/Akaiafas526/Professional-Readme-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
 }
