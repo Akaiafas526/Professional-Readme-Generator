@@ -72,6 +72,17 @@ inquirer
     createMd(response)
   });
 
+  function newLicense (license) {
+      switch (license) {
+          case 'Apache 2.0':
+              return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
+            break;
+            case 'BSD 3-Clause':
+                return `[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)`
+         }
+
+  }
+
   function createMd(response) {
       const markDown = `
 # ${response.title}
@@ -87,7 +98,7 @@ ${response.description}
 ## Installation
 ${response.installation}
 ## License
-${response.license}
+${newLicense(response.license)}
 ## Usage
 ${response.usage}
 ## Contributing
@@ -98,7 +109,7 @@ ${response.tests}
 ${response.questions}
 
 ## Contact:
-+ Github: ${response.github}
++ [Github](https://www.github.com/${response.github})
 
 + Email: ${response.email}
 `

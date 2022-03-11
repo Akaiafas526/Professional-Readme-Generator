@@ -1,4 +1,4 @@
-# Generated ReadMe
+# Generated
 
 ## Table of Contents
 - [Description](#description)
