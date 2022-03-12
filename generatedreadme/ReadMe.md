@@ -1,5 +1,5 @@
 
-# Example Title
+# Example Project Title
 ## Description
 Description of project
 ## Table of Contents
@@ -10,21 +10,19 @@ Description of project
 - [Questions](#questions)
 - [License](#license)
 ## Installation
-Installation process of license
+Installation process or modules
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Usage
-Usage of project
+Project Usage
 ## Contributing
-No contributers
+no contributers
 ## Tests
-No tests
+no tests
 ## Questions
-Ask any questions!
+no questions
 
 ## Contact:
-+ [Github](https://www.github.com/akkgithub.com)
++ [Github](https://www.github.com/github)
 
-+ Email: akk@email.com
-
-
++ Email: email@email.com
