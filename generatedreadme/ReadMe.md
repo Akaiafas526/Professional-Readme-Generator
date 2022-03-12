@@ -1,7 +1,7 @@
 
-# g
+# Example Title
 ## Description
-g
+Description of project
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,19 +10,21 @@ g
 - [Questions](#questions)
 - [License](#license)
 ## Installation
-ggr
+Installation process of license
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Usage
-grvev
+Usage of project
 ## Contributing
-r
+No contributers
 ## Tests
-grevrevre
+No tests
 ## Questions
-rverver
+Ask any questions!
 
 ## Contact:
-+ [Github](https://www.github.com/everver)
++ [Github](https://www.github.com/akkgithub.com)
 
-+ Email: 
++ Email: akk@email.com
+
+
